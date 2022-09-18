@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MarsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="let_s_explo">Let\'s Explore the <font fgcolor='#F9AD1A'>\nSolar System</font>\nwith <font fgcolor='#F9AD1A'>Explorer</font></string>
+    <string name="let_s_go">Let\'s Go</string>
+    <string name="todo">TODO</string>
+    <string name="marsimage">MarsImage</string>
+</resources>
